@@ -1,0 +1,16 @@
+{
+  "name": "peterkroener.de",
+  "version": "1.0.0",
+  "repository": {},
+  "author": "peter@peterkroener.de",
+  "license": "MIT",
+  "scripts": {
+    "build": "sh build.sh"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.3.12",
+    "uglifycss": "^0.0.28",
+    "workbox-cli": "^2.1.2",
+    "imagemin-cli": "^3.0.0"
+  }
+}
