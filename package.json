@@ -8,9 +8,11 @@
     "build": "sh build.sh"
   },
   "devDependencies": {
+    "imagemin": "^5.3.1",
+    "imagemin-cli": "^3.0.0",
     "uglify-js": "^3.3.12",
     "uglifycss": "^0.0.28",
-    "workbox-cli": "^2.1.2",
-    "imagemin-cli": "^3.0.0"
+    "workbox": "^0.0.0",
+    "workbox-cli": "^3.0.1"
   }
 }
