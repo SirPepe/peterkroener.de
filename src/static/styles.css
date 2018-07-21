@@ -462,6 +462,10 @@ figure.right {
   margin-right: 0;
 }
 
+figure img {
+  max-width: 100%;
+}
+
 figure a.imagelink {
   background: transparent;
   display: inline-block;
