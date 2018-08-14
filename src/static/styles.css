@@ -586,6 +586,7 @@ code {
   font-family: var(--mono-font);
   font-size: 1.1em;
   line-height: 1.4;
+  font-weight: inherit;
 }
 pre {
   background: var(--box-bg-color);
