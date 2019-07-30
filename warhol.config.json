@@ -1,0 +1,10 @@
+{
+    "patternLibUrl": "https://www.peterkroener.de/patterns",
+    "breakpoints": [ 1024 ],
+    "theme": {
+        "colors": {
+            "sources": "span.color",
+            "properties": [ "background-color" ]
+        }
+    }
+}

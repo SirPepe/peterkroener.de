@@ -14,5 +14,8 @@
     "uglifycss": "0.0.29",
     "workbox": "^0.0.0",
     "workbox-cli": "^4.3.0"
+  },
+  "dependencies": {
+    "@warhol/collector-service": "^8.0.0"
   }
 }
