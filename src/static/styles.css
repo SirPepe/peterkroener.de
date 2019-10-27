@@ -420,7 +420,7 @@ a[href^="http://www.planet-pepe.net"]:after,
 a[href^="http://cdn0.p"]:after,
 a[href^="http://cdn1.p"]:after,
 a[href^="http://cdn2.p"]:after {
-  content: "";
+  display: none;
 }
 
 a:link:after,
