@@ -13,7 +13,7 @@
     "uglify-js": "^3.5.11",
     "uglifycss": "0.0.29",
     "workbox": "^0.0.0",
-    "workbox-cli": "^4.3.0"
+    "workbox-cli": "^6.0.2"
   },
   "dependencies": {}
 }
