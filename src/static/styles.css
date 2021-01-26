@@ -970,9 +970,9 @@ iframe {
 
 .str { color: #A61111; }
 .kwd { font-weight: bold; }
-.com { color: #6B6; font-style: italic; }
+.com { color: #272; font-style: italic; }
 .typ { color: #195FA6; font-weight: bold; }
-.lit { color: #099; }
+.lit { color: #079; }
 .pun { color: #777; }
 .pln { color: #000; }
 .tag { color: #08C; font-weight: bold; }
