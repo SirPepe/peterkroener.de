@@ -1,13 +1,33 @@
 {
-    "patternLibUrl": "https://www.peterkroener.de/patterns",
-    "breakpoints": [ 1024 ],
-    "theme": {
-        "colors": {
-            "sources": "span.color",
-            "properties": [ "background-color" ]
-        }
+  "patternLibUrl": "https://www.peterkroener.de/patterns",
+  "patternLibCookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "a65717070ef2c9c2b9083bdbd177edcf",
+      "domain": "www.peterkroener.de",
+      "expires": 1597828481577
+    }
+  ],
+  "breakpoints": [
+    481,
+    801,
+    1201
+  ],
+  "theme": {
+    "colors": {
+      "sources": ".color",
+      "properties": [
+        "background-color"
+      ]
     },
-    "components": [
-      { "name": "Page header", "source": ".pageHeader" }
-    ]
+    "typography": {
+      "sources": ".typo"
+    }
+  },
+  "components": [
+    {
+      "name": "Page header",
+      "source": ".pageHeader"
+    }
+  ]
 }
